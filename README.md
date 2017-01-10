@@ -1,4 +1,4 @@
-# Scala-list-and-map-literals-sort-of-
+# Scala list and map literals ... sort of
 
 Usage:
 ```
